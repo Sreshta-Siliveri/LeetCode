@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
 | [0322-coin-change](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0322-coin-change) |
 | [0831-largest-sum-of-averages](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0831-largest-sum-of-averages) |
+| [1025-minimum-cost-for-tickets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0322-coin-change) |
 | [0831-largest-sum-of-averages](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0831-largest-sum-of-averages) |
+| [1025-minimum-cost-for-tickets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 ## Greedy
 |  |
 | ------- |
