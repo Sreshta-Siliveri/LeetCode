@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
 | [0319-bulb-switcher](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
+| [0672-bulb-switcher-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [2571-find-the-pivot-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## Recursion
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
+| [0672-bulb-switcher-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0672-bulb-switcher-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0319-bulb-switcher) |
+## Depth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0672-bulb-switcher-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0672-bulb-switcher-ii) |
 <!---LeetCode Topics End-->
