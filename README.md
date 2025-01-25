@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Two Pointers
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0016-3sum-closest) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Simulation
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 ## Divide and Conquer
 |  |
 | ------- |
