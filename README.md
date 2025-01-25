@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0016-3sum-closest) |
+| [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1022-unique-paths-iii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
