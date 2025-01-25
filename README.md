@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
