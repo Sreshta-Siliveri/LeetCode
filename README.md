@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
+| [3330-modify-the-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [3330-modify-the-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3330-modify-the-matrix) |
 <!---LeetCode Topics End-->
