@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Simulation
 |  |
 | ------- |
@@ -91,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
 <!---LeetCode Topics End-->
