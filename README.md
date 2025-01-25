@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0125-valid-palindrome) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0322-coin-change) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0680-valid-palindrome-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
