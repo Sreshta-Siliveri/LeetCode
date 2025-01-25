@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
 | [0319-bulb-switcher](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0319-bulb-switcher) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0322-coin-change) |
 | [0831-largest-sum-of-averages](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3330-modify-the-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3330-modify-the-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
