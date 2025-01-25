@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
