@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0012-integer-to-roman) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0065-valid-number) |
