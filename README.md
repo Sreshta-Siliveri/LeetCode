@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
 | [0322-coin-change](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0322-coin-change) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
