@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0282-expression-add-operators](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0282-expression-add-operators) |
 | [1022-unique-paths-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Stack
