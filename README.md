@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
 | [0672-bulb-switcher-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0672-bulb-switcher-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1260-day-of-the-year](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1260-day-of-the-year) |
 | [2571-find-the-pivot-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## Recursion
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1260-day-of-the-year](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1260-day-of-the-year) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
