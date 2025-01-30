@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0336-palindrome-pairs](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0409-longest-palindrome) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [1022-unique-paths-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1022-unique-paths-iii) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
