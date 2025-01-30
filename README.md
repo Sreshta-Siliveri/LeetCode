@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Simulation
 |  |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0336-palindrome-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 <!---LeetCode Topics End-->
