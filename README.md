@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0640-solve-the-equation) |
 | [0672-bulb-switcher-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [0888-mirror-reflection](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0888-mirror-reflection) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1260-day-of-the-year](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1260-day-of-the-year) |
 | [2037-count-square-sum-triples](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2037-count-square-sum-triples) |
@@ -328,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
+## Geometry
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0888-mirror-reflection) |
+## Number Theory
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0888-mirror-reflection) |
 <!---LeetCode Topics End-->
