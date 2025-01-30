@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
