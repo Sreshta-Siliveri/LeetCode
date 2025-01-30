@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0282-expression-add-operators) |
 | [0336-palindrome-pairs](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0022-generate-parentheses) |
+| [0282-expression-add-operators](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0282-expression-add-operators) |
 | [1022-unique-paths-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Stack
 |  |
