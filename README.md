@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0322-coin-change](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0454-4sum-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0454-4sum-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0319-bulb-switcher) |
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
