@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
 | [3330-modify-the-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0018-4sum) |
 | [0354-russian-doll-envelopes](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Linked List
 |  |
 | ------- |
