@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0046-permutations) |
 | [0282-expression-add-operators](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0282-expression-add-operators) |
 | [1022-unique-paths-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Stack
