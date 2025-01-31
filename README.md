@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3151-minimum-processing-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3151-minimum-processing-time) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Simulation
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-minimum-sideway-jumps](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2001-jump-game-vii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2001-jump-game-vii) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
 |  |
