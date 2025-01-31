@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1428-jump-game-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1428-jump-game-iii) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1656-count-good-triplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2122-count-special-quadruplets) |
@@ -239,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [1428-jump-game-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0322-coin-change) |
 | [0672-bulb-switcher-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0672-bulb-switcher-ii) |
+| [1428-jump-game-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1428-jump-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
