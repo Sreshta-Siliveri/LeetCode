@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3151-minimum-processing-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3330-modify-the-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3151-minimum-processing-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Linked List
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
+| [3151-minimum-processing-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Sliding Window
 |  |
 | ------- |
