@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1447-jump-game-iv) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1656-count-good-triplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1656-count-good-triplets) |
 | [1952-minimum-sideway-jumps](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0640-solve-the-equation) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 ## Bit Manipulation
 |  |
 | ------- |
