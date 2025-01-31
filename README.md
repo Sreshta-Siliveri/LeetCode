@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0336-palindrome-pairs) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0455-assign-cookies) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0076-minimum-window-substring) |
