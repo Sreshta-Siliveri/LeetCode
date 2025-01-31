@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1447-jump-game-iv) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1656-count-good-triplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1656-count-good-triplets) |
+| [1952-minimum-sideway-jumps](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2122-count-special-quadruplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0831-largest-sum-of-averages](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1952-minimum-sideway-jumps](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2001-jump-game-vii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2001-jump-game-vii) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1952-minimum-sideway-jumps](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
