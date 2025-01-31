@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1260-day-of-the-year) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2001-jump-game-vii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2001-jump-game-vii) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0831-largest-sum-of-averages](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0831-largest-sum-of-averages) |
+| [2001-jump-game-vii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2001-jump-game-vii) |
 | [2571-find-the-pivot-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
 ## Brainteaser
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0831-largest-sum-of-averages](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [2001-jump-game-vii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2001-jump-game-vii) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Greedy
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2001-jump-game-vii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2001-jump-game-vii) |
 ## Counting
 |  |
 | ------- |
