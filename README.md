@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-maximum-or](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2730-maximum-or) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3151-minimum-processing-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3330-modify-the-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3151-minimum-processing-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
