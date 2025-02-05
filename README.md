@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0403-frog-jump) |
 | [0454-4sum-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0831-largest-sum-of-averages](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [1022-unique-paths-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0567-permutation-in-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -448,4 +451,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
