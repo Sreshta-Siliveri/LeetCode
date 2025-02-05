@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0640-solve-the-equation) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 ## Divide and Conquer
