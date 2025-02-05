@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1260-day-of-the-year) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1542-consecutive-characters](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2001-jump-game-vii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2001-jump-game-vii) |
