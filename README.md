@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0403-frog-jump) |
 | [0454-4sum-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0831-largest-sum-of-averages](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0831-largest-sum-of-averages) |
