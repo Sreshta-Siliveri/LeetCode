@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1656-count-good-triplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1656-count-good-triplets) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1952-minimum-sideway-jumps](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1952-minimum-sideway-jumps) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2122-count-special-quadruplets](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2122-count-special-quadruplets) |
