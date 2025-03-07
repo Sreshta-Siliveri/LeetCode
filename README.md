@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-mirror-reflection](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0888-mirror-reflection) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1260-day-of-the-year](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1260-day-of-the-year) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2037-count-square-sum-triples](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2571-find-the-pivot-integer](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2571-find-the-pivot-integer) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0888-mirror-reflection) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Number Theory
 |  |
 | ------- |
