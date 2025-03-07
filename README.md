@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0567-permutation-in-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0455-assign-cookies) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0455-assign-cookies) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3151-minimum-processing-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/3151-minimum-processing-time) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0443-string-compression) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0640-solve-the-equation) |
