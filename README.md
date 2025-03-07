@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2001-jump-game-vii) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
