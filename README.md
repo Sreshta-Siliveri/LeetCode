@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0052-n-queens-ii) |
 | [0282-expression-add-operators](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0282-expression-add-operators) |
 | [1022-unique-paths-iii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/1022-unique-paths-iii) |
 ## Stack
