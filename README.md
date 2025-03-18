@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0415-add-strings) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0861-flipping-an-image](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0861-flipping-an-image) |
