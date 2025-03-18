@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0066-plus-one) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Sreshta-Siliveri/LeetCode/tree/master/0354-russian-doll-envelopes) |
